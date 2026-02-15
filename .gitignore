@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ==============================
+# 自定義忽略規則 (Custom Rules)
+# ==============================
+# 忽略 Models 資料夾下的 Config.cs
+**/Models/Config.cs
