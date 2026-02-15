@@ -1,0 +1,102 @@
+列出資料夾 PATH
+磁碟區序號為 FC53-DCCF
+D:.
+│  AuctionBidder.csproj
+│  AuctionBidder.csproj.user
+│  AuctionBidder.slnx
+│  BID.ico
+│  MainForm.cs
+│  MainForm.Designer.cs
+│  MainForm.resx
+│  Program.cs
+│  project_structure.txt
+│  
+├─bin
+│  └─Debug
+│      └─net10.0-windows
+│          │  AuctionBidder.deps.json
+│          │  AuctionBidder.dll
+│          │  AuctionBidder.exe
+│          │  AuctionBidder.pdb
+│          │  AuctionBidder.runtimeconfig.json
+│          │  msedgedriver.exe
+│          │  WebDriver.dll
+│          │  WebDriver.Support.dll
+│          │  
+│          └─runtimes
+│              ├─linux
+│              │  └─native
+│              │          selenium-manager
+│              │          
+│              ├─osx
+│              │  └─native
+│              │          selenium-manager
+│              │          
+│              └─win
+│                  └─native
+│                          selenium-manager.exe
+│                          
+├─Controls
+│      BidTaskControl.cs
+│      BidTaskControl.cs.tmp
+│      BidTaskControl.Designer.cs
+│      BidTaskControl.resx
+│      
+├─Core
+│      BaseBidder.cs
+│      BaseBidder.cs.tmp
+│      TaipeiBidder.cs
+│      TaipeiBidder.cs.tmp
+│      TaitungBidder.cs
+│      TaitungBidder.cs.tmp
+│      
+├─Forms
+│      BatchAddForm.cs
+│      BatchAddForm.Designer.cs
+│      BatchAddForm.resx
+│      
+├─Models
+│      Config.cs
+│      TaskConfig.cs
+│      TaskConfig.cs.tmp
+│      
+├─obj
+│  │  AuctionBidder.csproj.nuget.dgspec.json
+│  │  AuctionBidder.csproj.nuget.g.props
+│  │  AuctionBidder.csproj.nuget.g.targets
+│  │  project.assets.json
+│  │  project.nuget.cache
+│  │  
+│  └─Debug
+│      └─net10.0-windows
+│          │  .NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+│          │  apphost.exe
+│          │  AuctionB.C1B7A7A8.Up2Date
+│          │  AuctionBidder.AssemblyInfo.cs
+│          │  AuctionBidder.AssemblyInfoInputs.cache
+│          │  AuctionBidder.assets.cache
+│          │  AuctionBidder.Controls.BidTaskControl.resources
+│          │  AuctionBidder.csproj.AssemblyReference.cache
+│          │  AuctionBidder.csproj.BuildWithSkipAnalyzers
+│          │  AuctionBidder.csproj.CoreCompileInputs.cache
+│          │  AuctionBidder.csproj.FileListAbsolute.txt
+│          │  AuctionBidder.csproj.GenerateResource.cache
+│          │  AuctionBidder.dll
+│          │  AuctionBidder.Forms.BatchAddForm.resources
+│          │  AuctionBidder.GeneratedMSBuildEditorConfig.editorconfig
+│          │  AuctionBidder.genruntimeconfig.cache
+│          │  AuctionBidder.GlobalUsings.g.cs
+│          │  AuctionBidder.MainForm.resources
+│          │  AuctionBidder.pdb
+│          │  
+│          ├─ref
+│          │      AuctionBidder.dll
+│          │      
+│          └─refint
+│                  AuctionBidder.dll
+│                  
+└─Properties
+    └─PublishProfiles
+            FolderProfile.pubxml
+            FolderProfile.pubxml.user
+            
